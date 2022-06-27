@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CoretexAutomation]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="RegressionTests(failed)" verbose="0">
+    <classes>
+      <class name="com.coretex.tests.i360.DriverManagerTests">
+        <methods>
+          <include name="editAlertPlan_9654"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="updateTestResults"/>
+          <include name="uiBeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="baseBeforeMethod"/>
+          <include name="uiAfterSuite"/>
+          <include name="createTestRun"/>
+          <include name="uiAfterMethod"/>
+        </methods>
+      </class> <!-- com.coretex.tests.i360.DriverManagerTests -->
+    </classes>
+  </test> <!-- RegressionTests(failed) -->
+</suite> <!-- Failed suite [CoretexAutomation] -->

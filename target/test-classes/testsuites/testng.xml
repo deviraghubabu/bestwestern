@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="CoretexAutomation" verbose="0">
+	<parameter name="browser" value="chrome" />
+	<test name="RegressionTests">
+		<classes>
+			<class name="com.coretex.tests.i360.DriverManagerTests">
+				<methods>
+					<include name="editAlertPlan_9654" />
+				</methods>
+			</class>
+
+
+		</classes>
+	</test>
+</suite>

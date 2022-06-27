@@ -1,0 +1,127 @@
+2022-06-27 18:32:36,241 INFO  [Log] Before Suite 
+2022-06-27 18:32:36,242 INFO  [Log] Loading Project Configutations 
+2022-06-27 18:32:36,244 INFO  [Log] Loaded Project Configutations Successfully 
+2022-06-27 18:32:36,383 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:32:36,383 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:32:36,384 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_BestWesternWF1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2022-06-27 18:32:36,384 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:32:36,384 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:32:36,397 INFO  [Log] Initializing Driver 
+2022-06-27 18:32:38,155 INFO  [Log] Driver initialized successfully 
+2022-06-27 18:32:46,983 INFO  [Log] Waiting for element Accept to become clickable. 
+2022-06-27 18:32:47,072 INFO  [Log] Element Accept is now clickable. 
+2022-06-27 18:32:53,125 INFO  [Log] Assertion succeeded for [Element is visible, targeting: [[ChromeDriver: chrome on WINDOWS (62c6fdaf695fcafa5431438872e74c1d)] -> id: img-nav-logo]] 
+2022-06-27 18:32:53,257 INFO  [Log] Setting control Destination's text to Phoenix, AZ, USA 
+2022-06-27 18:32:53,258 INFO  [Log] Clearing text box Destination 
+2022-06-27 18:32:53,333 INFO  [Log] Cleared text box Destination 
+2022-06-27 18:32:53,675 INFO  [Log] Set control Destination's text to Phoenix, AZ, USA 
+2022-06-27 18:32:54,793 INFO  [Log] Pressed  on Keyboard 
+2022-06-27 18:32:55,855 INFO  [Log] Pressed  on Keyboard 
+2022-06-27 18:33:00,865 INFO  [Log] Waiting for element Checkin to become clickable. 
+2022-06-27 18:33:00,966 INFO  [Log] Element Checkin is now clickable. 
+2022-06-27 18:33:01,282 INFO  [Log] Waiting for element June 28 to become clickable. 
+2022-06-27 18:33:01,329 INFO  [Log] Element June 28 is now clickable. 
+2022-06-27 18:33:01,580 INFO  [Log] Waiting for element Checkout to become clickable. 
+2022-06-27 18:33:01,678 INFO  [Log] Element Checkout is now clickable. 
+2022-06-27 18:33:02,054 INFO  [Log] Waiting for element June 30 to become clickable. 
+2022-06-27 18:33:02,104 INFO  [Log] Element June 30 is now clickable. 
+2022-06-27 18:33:17,498 INFO  [Log] Entered search data successfully 
+2022-06-27 18:33:17,655 INFO  [Log] Waiting for element Add Room to become clickable. 
+2022-06-27 18:33:17,752 INFO  [Log] Element Add Room is now clickable. 
+2022-06-27 18:33:18,091 INFO  [Log] Waiting for element Add Room to become clickable. 
+2022-06-27 18:33:18,173 INFO  [Log] Element Add Room is now clickable. 
+2022-06-27 18:33:32,678 INFO  [Log] Successfully added 3 rooms 
+2022-06-27 18:33:32,896 INFO  [Log] Waiting for element Add Children to become clickable. 
+2022-06-27 18:33:32,946 INFO  [Log] Element Add Children is now clickable. 
+2022-06-27 18:33:33,251 INFO  [Log] Waiting for element Add Children to become clickable. 
+2022-06-27 18:33:33,295 INFO  [Log] Element Add Children is now clickable. 
+2022-06-27 18:33:33,559 INFO  [Log] Waiting for element Add Children to become clickable. 
+2022-06-27 18:33:33,604 INFO  [Log] Element Add Children is now clickable. 
+2022-06-27 18:33:48,208 INFO  [Log] Successfully added 3 children 
+2022-06-27 18:33:55,741 INFO  [Log] Successfully clicked on  
+2022-06-27 18:34:04,278 INFO  [Log] Successfully clicked on View Rooms 
+2022-06-27 18:34:08,803 INFO  [Log] Successfully clicked on View Rooms 
+2022-06-27 18:34:09,120 INFO  [Log] Element Select Room Page is Displayed on UI 
+2022-06-27 18:34:09,331 INFO  [Log] Waiting for element Select to become clickable. 
+2022-06-27 18:34:09,387 INFO  [Log] Element Select is now clickable. 
+2022-06-27 18:34:12,825 INFO  [Log] Waiting for element Select to become clickable. 
+2022-06-27 18:34:12,879 INFO  [Log] Element Select is now clickable. 
+2022-06-27 18:34:16,349 INFO  [Log] Waiting for element Select to become clickable. 
+2022-06-27 18:34:16,388 INFO  [Log] Element Select is now clickable. 
+2022-06-27 18:34:38,950 INFO  [Log] Successfully click on Select in each room 
+2022-06-27 18:34:39,219 INFO  [Log] Element Reservation Summary Page is Displayed on UI 
+2022-06-27 18:34:47,307 INFO  [Log] Successfully Validated the summary page 
+2022-06-27 18:34:48,149 INFO  [Log] After Method 
+2022-06-27 18:34:48,149 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,149 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,149 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2022-06-27 18:34:48,149 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,149 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,149 INFO  [Log] X 
+2022-06-27 18:34:48,149 INFO  [Log] X 
+2022-06-27 18:34:48,149 INFO  [Log] X 
+2022-06-27 18:34:48,150 INFO  [Log] X 
+2022-06-27 18:34:48,248 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,248 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,248 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_BestWesternWF2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2022-06-27 18:34:48,248 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,248 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:34:48,249 INFO  [Log] Initializing Driver 
+2022-06-27 18:34:49,495 INFO  [Log] Driver initialized successfully 
+2022-06-27 18:34:59,343 INFO  [Log] Waiting for element Accept to become clickable. 
+2022-06-27 18:34:59,551 INFO  [Log] Element Accept is now clickable. 
+2022-06-27 18:35:05,000 INFO  [Log] Assertion succeeded for [Element is visible, targeting: [[ChromeDriver: chrome on WINDOWS (73af6661e3dc888a361f7b2eb278f471)] -> id: img-nav-logo]] 
+2022-06-27 18:35:05,089 INFO  [Log] Setting control Destination's text to Phoenix, AZ, USA 
+2022-06-27 18:35:05,089 INFO  [Log] Clearing text box Destination 
+2022-06-27 18:35:05,137 INFO  [Log] Cleared text box Destination 
+2022-06-27 18:35:05,411 INFO  [Log] Set control Destination's text to Phoenix, AZ, USA 
+2022-06-27 18:35:06,503 INFO  [Log] Pressed  on Keyboard 
+2022-06-27 18:35:07,554 INFO  [Log] Pressed  on Keyboard 
+2022-06-27 18:35:12,559 INFO  [Log] Waiting for element Checkin to become clickable. 
+2022-06-27 18:35:12,651 INFO  [Log] Element Checkin is now clickable. 
+2022-06-27 18:35:12,964 INFO  [Log] Waiting for element June 28 to become clickable. 
+2022-06-27 18:35:12,999 INFO  [Log] Element June 28 is now clickable. 
+2022-06-27 18:35:13,173 INFO  [Log] Waiting for element Checkout to become clickable. 
+2022-06-27 18:35:13,287 INFO  [Log] Element Checkout is now clickable. 
+2022-06-27 18:35:13,678 INFO  [Log] Waiting for element June 30 to become clickable. 
+2022-06-27 18:35:13,716 INFO  [Log] Element June 30 is now clickable. 
+2022-06-27 18:35:25,467 INFO  [Log] Entered search data successfully 
+2022-06-27 18:35:25,597 INFO  [Log] Waiting for element Add Room to become clickable. 
+2022-06-27 18:35:25,641 INFO  [Log] Element Add Room is now clickable. 
+2022-06-27 18:35:25,838 INFO  [Log] Waiting for element Add Room to become clickable. 
+2022-06-27 18:35:25,883 INFO  [Log] Element Add Room is now clickable. 
+2022-06-27 18:35:37,402 INFO  [Log] Successfully added 3 rooms 
+2022-06-27 18:35:37,549 INFO  [Log] Waiting for element Add Children to become clickable. 
+2022-06-27 18:35:37,583 INFO  [Log] Element Add Children is now clickable. 
+2022-06-27 18:35:37,851 INFO  [Log] Waiting for element Add Children to become clickable. 
+2022-06-27 18:35:37,887 INFO  [Log] Element Add Children is now clickable. 
+2022-06-27 18:35:38,064 INFO  [Log] Waiting for element Add Children to become clickable. 
+2022-06-27 18:35:38,089 INFO  [Log] Element Add Children is now clickable. 
+2022-06-27 18:35:49,634 INFO  [Log] Successfully added 3 children 
+2022-06-27 18:35:57,218 INFO  [Log] Successfully clicked on  
+2022-06-27 18:36:04,259 INFO  [Log] Successfully clicked on View Rooms 
+2022-06-27 18:36:09,071 INFO  [Log] Successfully clicked on View Rooms 
+2022-06-27 18:36:09,258 INFO  [Log] Element Select Room Page is Displayed on UI 
+2022-06-27 18:36:09,365 INFO  [Log] Waiting for element Select to become clickable. 
+2022-06-27 18:36:56,303 FATAL [Log] Timed out waiting for element Select to become clickable. 
+2022-06-27 18:37:13,110 FATAL [Log] unable to click on Select 
+2022-06-27 18:37:15,352 INFO  [Log] Waiting for element Select to become clickable. 
+2022-06-27 18:37:15,390 INFO  [Log] Element Select is now clickable. 
+2022-06-27 18:37:33,561 FATAL [Log] unable to click on Select 
+2022-06-27 18:37:35,756 INFO  [Log] Waiting for element Select to become clickable. 
+2022-06-27 18:37:35,794 INFO  [Log] Element Select is now clickable. 
+2022-06-27 18:37:53,827 FATAL [Log] unable to click on Select 
+2022-06-27 18:38:10,685 INFO  [Log] Successfully click on Select in each room 
+2022-06-27 18:39:10,962 FATAL [Log] Element Reservation Summary Page is not Displayed on UI 
+2022-06-27 18:39:27,706 FATAL [Log] Validated the summary page Element Reservation Summary Page is not Displayed on UI.<br> 
+2022-06-27 18:39:28,538 INFO  [Log] After Method 
+2022-06-27 18:39:28,538 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:39:28,538 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:39:28,538 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2022-06-27 18:39:28,539 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:39:28,539 INFO  [Log] **************************************************************************************** 
+2022-06-27 18:39:28,539 INFO  [Log] X 
+2022-06-27 18:39:28,539 INFO  [Log] X 
+2022-06-27 18:39:28,539 INFO  [Log] X 
+2022-06-27 18:39:28,539 INFO  [Log] X 
+2022-06-27 18:39:28,859 INFO  [Log] After Suite 
